@@ -1,0 +1,8 @@
+cherrypy
+pandas
+mysql.connector
+sys
+boto3
+os
+logging
+json

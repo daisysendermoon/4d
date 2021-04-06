@@ -1,0 +1,38 @@
+{
+     "commonEventHeader": 
+     {
+          "event_id ": "1",
+          "event_type": "int_down",
+          "event_key": "int_down_00000001",
+          "event_state": "raise",
+          "event_nets_ticket": "nets_00000001",
+          "event_start": "2016-06-22 19:10:25-07",
+          "event_last_change": "2016-06-22 19:10:25-07",
+          "event_end": "2016-06-22 19:10:25-07",
+          "event_flap_count": 1,
+          "ticket_event_flap_count": 2,
+          "event_details": 
+          {
+               "event_text": "TL1TSM_Atlantic7342",
+               "event_detail_key": "detail_int_down_00000001",
+               "event_last_timestamp": "2016-06-22 19:10:25-07",
+               "event_enrichments": "TL1TSM_Atlantic7342",
+               "event_action": "action1",
+               "event_action_delay": 10,
+               "no_auto_close": 0,
+               "last_nets_event_history_id": 0,
+               "last_nets_status_check": 0,
+               "ticket_event_state": "active",
+               "parent_event_id": 1,
+               "event_ticket_suppression_cause": "nothing",
+               "last_nets_worklog_addition": 0,
+               "event_correlation_id": 1,
+               "event_correlation_worklog_updated": 0
+          }
+     },
+     "faultFields": 
+     {
+          "fault_id ": "1",
+          "fault_type": "int_down"
+     }
+}
